@@ -1,0 +1,30 @@
+body {
+  background-image: linear-gradient(120deg, #dbb844, #fda085);
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+.image-style {
+  width: 100%;
+  height: auto;
+  justify-content: center;
+  border: 2px solid rgb(161, 138, 7);
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+.parentDiv-style {
+  padding: 15px;
+}
+
+h1,
+#breed {
+  min-width: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#breed_list {
+  padding: 9px;
+}
